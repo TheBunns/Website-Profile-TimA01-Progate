@@ -1,0 +1,2 @@
+# Website-Profile-TimA01-Progate
+Ini adalah website hasil dari kerja tim A01 pada bootcamp coding yang diselenggarakan oleh UIN Sunan Gunung Djati Bandung dan ProgateID, khusus yang mengambil kursus HTML dan CSS. Website ini dikerjakan oleh Fitria Nur Azizah (Navbar), Rizal Miftahussalim (Top-Main), Thorik Agung P (Profile-Team), Chamid Nur Muhajir (About dan contact us) &amp; Maula Tamimi (Footer).
