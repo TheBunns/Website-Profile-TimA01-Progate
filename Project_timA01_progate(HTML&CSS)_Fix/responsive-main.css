@@ -1,0 +1,56 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .container-main {
+    width: 80%;
+    margin-left: 20px;
+  }
+
+  .top-wrapper .container-main h1 {
+    font-size: 32px;
+  }
+
+  .container-main {
+    width: 40%;
+  }
+
+  .typing h1 {
+    width: 120px;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .top-wrapper {
+    width: 100%;
+    background-image: none;
+    background-color: #90afc5;
+  }
+
+  .typing h1 {
+    width: 100px;
+  }
+
+  .btn-wrapper a {
+    width: 40%;
+  }
+
+  .top-wrapper .container-main {
+    text-align: center;
+    margin: auto;
+    width: 90%;
+  }
+
+  .top-wrapper .container-main h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .top-wrapper .container-main p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .instagram-main {
+    margin-top: 10px;
+  }
+}

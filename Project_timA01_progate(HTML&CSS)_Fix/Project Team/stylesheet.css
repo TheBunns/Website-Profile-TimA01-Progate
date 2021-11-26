@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Ballo Tammadu', cursive;
+}
+
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.conten{
+    text-align: center;
+    background-color: #f7f7f7;
+    
+}
+
+.jdl-conten{
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+.jdl-conten h2 {
+    font-family: 'Dunkin', cursive;
+    color: rgb(87, 86, 86);
+    text-shadow: 2px 5px #c5bfbf;
+}
+
+.jdl-conten span{
+    font-size: 40px;
+    color: #763626;
+}
+
+.conten-1{
+    display: inline-block;
+}
+
+.contens {
+    width: 33%;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.contens-1 {
+    width: 50%;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.contens-2 {
+    width: 50%;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.isi-contens img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 10px double #763626;
+}
+
+.isi-contens p {
+    font-family: 'Dunkin', cursive;
+    color: #763626;
+}
+
+.instagram {
+    width: 50px;
+    height: 50px;
+    background-image: url(img/icons8-instagram-50.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+
+.txt-contens {
+    width: 80%;
+    display: inline-block;
+    font-style: italic;
+    font-size: 16px;
+    color: rgb(87, 86, 86);
+}

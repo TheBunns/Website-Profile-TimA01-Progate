@@ -1,0 +1,46 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    .contens {
+        width: 50%;
+    }
+
+    .contens-1{
+        width: 50%;
+    }
+
+    .contens-2 {
+        width: 100%;
+    }
+
+    .jdl-conten h2 {
+        font-size: 22px;
+    }
+
+    .jdl-conten span {
+        font-size: 30px;
+    }
+
+    .isi-contens p {
+        font-size: 15px;
+    }
+
+    .txt-contens {
+        font-size: 13px;
+    }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .contens {
+        width: 100%;
+    }
+
+    .contens-1 {
+        width: 100%;
+    }
+
+    .contens-2 {
+        width: 100%;
+    }
+
+}

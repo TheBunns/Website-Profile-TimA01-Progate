@@ -1,0 +1,49 @@
+.footer {
+  background-color: rgb(177, 163, 153);
+  height: 100px;
+  font-style: verdana;
+  color: cornsilk;
+}
+.copyright {
+  float: left;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+}
+.copyright span {
+  color: rgb(0, 0, 0);
+}
+.coding {
+  float: right;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+.coding {
+  list-style: none;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+a {
+  color: cornsilk;
+  text-decoration: none;
+}
+p {
+  text-align: center;
+}
+@media (max-width: 1000px) {
+  .footer {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+  }
+
+  .copyright {
+    text-align: center;
+    float: none;
+  }
+
+  .coding {
+    float: none;
+    padding: 0;
+  }
+}

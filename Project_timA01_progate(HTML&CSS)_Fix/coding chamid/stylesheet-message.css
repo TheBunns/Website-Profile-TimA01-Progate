@@ -1,0 +1,45 @@
+
+
+
+.bagian-chamid {
+    background-color:#7c7348;
+    height: 400px;
+    text-align: center;
+    padding-top: 30px;
+   background-image: url(https://image.freepik.com/free-vector/ethnic-floral-seamless-pattern_1159-3574.jpg);
+    
+}
+li {
+    list-style:none;
+}
+
+.about-us h3 {
+    font-family:'Ballo Tammadu', cursive;
+    letter-spacing: 4px;
+}
+
+
+.contact-us h3 {
+    font-family:'Ballo Tammadu', cursive;
+  
+}
+
+.contact-us {
+    text-align: center;
+}
+
+
+@media (max-widht: 1000px) {
+    .bagian-chamid {
+width: 50%;
+    
+        font-size: 20px;
+    }
+}
+
+@media (max-widht:670px) {
+    .bagian-chamid {
+        width:25%;
+        font-size: 10px;
+    }
+}
